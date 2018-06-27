@@ -1879,6 +1879,10 @@
   background-color: #795548 !important;
 }
 
+.valyriocolor {
+  background-color: #151617 !important;
+}
+
 .brown-text {
   color: #795548 !important;
 }
@@ -2945,7 +2949,7 @@ ul.staggered-list li {
   padding-top: 20px;
   color: #fff;
   background-color: #ee6e73;
- 
+
 }
 
 .page-footer .footer-copyright {
@@ -6171,8 +6175,8 @@ input[type=search]:not(.browser-default):disabled,
 input[type=search]:not(.browser-default)[readonly="readonly"],
 textarea.materialize-textarea:disabled,
 textarea.materialize-textarea[readonly="readonly"] {
-  color: rgba(0, 0, 0, 0.42);
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.42);
+  color: rgba(255, 0, 0, 0.42);
+  border-bottom: 1px dotted rgba(255, 0, 0, 0.42);
 }
 
 input:not([type]):disabled + label,
@@ -6201,7 +6205,7 @@ input[type=search]:not(.browser-default):disabled + label,
 input[type=search]:not(.browser-default)[readonly="readonly"] + label,
 textarea.materialize-textarea:disabled + label,
 textarea.materialize-textarea[readonly="readonly"] + label {
-  color: rgba(0, 0, 0, 0.42);
+  color: rgba(255, 0, 0, 0.42);
 }
 
 input:not([type]):focus:not([readonly]),
@@ -6251,7 +6255,7 @@ input[type=tel]:not(.browser-default):focus.valid ~ label,
 input[type=number]:not(.browser-default):focus.valid ~ label,
 input[type=search]:not(.browser-default):focus.valid ~ label,
 textarea.materialize-textarea:focus.valid ~ label {
-  color: #4CAF50;
+  color: #000000;
 }
 
 input:not([type]):focus.invalid ~ label,
