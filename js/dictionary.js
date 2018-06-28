@@ -10,8 +10,10 @@ function Translate(){
   //catalan_list, english_list, spanish_list, valyrian_list
   var word=document.getElementById("textarea1").value;
   if(spanish_list.includes(word)){
-    document.getElementById("textarea2").innerHTML=word;
+    var index=spanish_list.indexOf(word);
+    word=valyrian_list[index];
+    document.getElementById("textarea2").value=word;
   }else{
-    document.getElementById("textarea2").innerHTML="La palabra "+word+" no esta en nuestro diccionario";
+    document.getElementById("textarea2").value="La palabra "+word+" no esta en nuestro diccionario";
   }
 }
