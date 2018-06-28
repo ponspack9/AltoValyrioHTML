@@ -6523,7 +6523,7 @@ textarea.materialize-textarea + label:after, .select-wrapper + label:after {
 }
 
 .input-field > label {
-  color: #9e9e9e;
+  color: #000000;
   position: absolute;
   top: 0;
   left: 0;
@@ -7186,7 +7186,7 @@ select {
 }
 
 .select-wrapper input.select-dropdown:focus {
-  border-bottom: 1px solid #26a69a;
+  border-bottom: 1px solid #000000;
 }
 
 .select-wrapper .caret {

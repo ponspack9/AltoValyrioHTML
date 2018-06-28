@@ -4,6 +4,7 @@
     var options= ["Español","English","Català"];
     var instances = M.FormSelect.init(elems, options);
   });
+  
   $(function(){
 
     $('.sidenav').sidenav();

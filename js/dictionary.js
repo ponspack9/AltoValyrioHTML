@@ -6,29 +6,48 @@ var english_list=["woman","womankind","wife","fast","soon","quickness","to pay",
 
 var catalan_list=["dona","totes les dones","esposa","ràpid","aviat","rapidesa","pagar, satisfer","de ferro","ferro","Aelix","Senyor","or","viatjar","Aerys","enfadar-se","arribar","tornar","crear","deu","desè","mossegar","cavall","sang","tu","teu","teu","com desitgis","tu mateix","arakhi (arma dothraki)","caçar","caçador","cervesa","nou","de tornada","canviar","qui canvia, es torna diferent","canvi","ressuscitar","Astapor","mussol","dent","vi","ebri","raïm","espasa curta","exèrcit","soldat","ajudar","cim","calent","enfornar","llarga nit","nit","escriure","cap","a sobre","truita","cadena","esclavatge","esclavitzar","esclavista","truja","cantar","necessitar","ovella","afortunat","fortuna","celebrar","mamar","flotar","aquest","muntanya","cua","aquell","llarg","patir","feina","bronze","coure","Braavos","anomenar","nom","nedar","esclau","petit","sisè","sis","seixanta","seixantè","alliberar","lliurement","llibertat","lliure","córrer","pluja","no","enlloc","res","ningú","reina","hereu","Daario","regne","real","rei","ploure","asseure's","tron","peu","trepitjar","caminar","recollir","ignorància","servir","algú que va ser un esclau","casar","dolç","no","mai","no molt","de pedra","rocós","pedra","mur","incremable","dothraki","puro","foc de drac","ample","correcte","veritablement","veritat","Drogon","ou","cosí","animal","cel nocturn","dormir","alt","espasa","ganivet","orella","marea","veu","primari","primerament","mel","tenir","mar","gran mar","aquàtic","oest","occidental","sabrós","llengüeta","llengua","deure","preguntar","demanar","cabra","guanyar","victòria","estripar","nom d'esclau","centè","martell","fer","missió","acció","cent","platejat","plata","diners","casc","deute","ratolí","carrer","passeig","adeu","fruita","meravellosament","bonic","bellesa","Ghis","calmat","curar","malalt","sencer","conèixer","ànima","viure","vida","sota","quedar-se","posar sota","poll","rodó","circumferència","roda","os","arbre","bosc","aprendre","aconseguir","allò merescut","com","germana petita","empènyer","tres","trenta","trentè","apropiat","pa","menjar","d'entre","carnisser","sacrificar","així","a continuació","de","igual","juntament","sortir","pujada","escala","partir","a partir d'ara","cridar","colpejar","ocell","boc","enorgullir","inflar-se","corda","conill","lluna","lunar","o","fluir","tiet matern","cosí matern","os","ataat","bessó","company","escollir","elecció","repte","aigua","estómac","en","romandre","recte","cruïlla","crucificar","somriure","Illyrio","nosaltres","nosaltres mateixos","nostre","nostre","llençar","assistir","morir per","empènyer","esquena","darrere","Jon","respectar","estar dempeus","fredor","fred","menjar","regal","donar","persona","dir","lluitar per","témer","quatre","quaranta","quarantè","quart","estiu","Illes de l'Estiu","deessa","voler","déu","anar","seu","seu","ell mateix","gos","Jaqen","golriós","glòria","harpia","estació","cel","brillar","en presencia de","brillantor","bufar","tempesta","vent","del nord","norte","liderar","nosaltres mateixos","vosaltres","de vidre","molestar","lideratge","líder","vuit","vuitè","vuitanta","vuitantè","pols","vostre","vostre","enviar","rebre","benvinguda","silenciar","seguir matant","estudiar","portar armadura","seguir embriagant-se","resar","pregària","escórrer","estimar","llet","esperar","Yunkai","considerar","salvador","salvació","blau","gat","parar","lleó","gatet","pesat","pare","aquest","perquè","aquí","sí","Khal","Khaleesi","primavera","muntar a","festí","alimentar","promesa","el Príncep que va ser Promès","peix","aquell","vapor","allà","espasa llarga","acer","ferm","ser capaç","potser","poder","poderós","poderosament","alegria","gràcies","feliç","remolatxa","cama","nan","enfortirse","mesurar","intestins","estratègia","cyvasse","ull","cara","sense cara","dos","robar","corb","omplir","ple","germà gran","casa","família","comunitat","lligar","ballar","plorar","vendre","en venda","el qual","somriure","somriure","ros","si","ara que","careta","a part d'allò","vaixell","mariner","sal","perforar","forat","Lorath","fermament","panada","mullat","qui","doblegar","turmell","sigilós","parat","pau","portar pau","Lys","bruixa","portar","celebrar","germana gran","admirar","ratapinyada","succeir","prendre","clarejar","venir","acceptar","crear","vermell","sacerdot vermell","Melisandre","pera","marxar","batalló","soldat","exèrcit","cos","Meraxes","tenir gana","un","només","un cop","mama","mare","curt","casa d'empenyorament","mancar","Meereen","qualsevol","una mica","a algun lloc","alguna cosa","algú","protegir","protector","armadura","babau","banya","mort","mort","mortal","morir","tots els homes han de morir","final","inacabable","beure","tieta","llengua materna","pares","ser miserable","tristesa","Myr","cérvol","descordar","cosina","treure's","front","tors","davant de","pit","número incontable","molts","suar","desigualtat","debilitat","inmortal","inmortal","tieta","no creient","no creient","Pasqua","clarejar","una cosa bàsica","llac","valent","valentament","persona valenta","tenir una fuga","ídol","tallar","carn","carn","foc fet carn","cosir","portar","braç","manc","colze","elefant","infern","Norvos","meu","meu","a la meva manera","significat","perla","cendres","vaca","jo","jo mateix","corva","inclinar","rendir-se","ferir","dolor","danyar","ferida","cabell","apunyalar","daga","greix","beneir","perdre","ciutat","molt","molts","molts","poders","mà","per","agafar","pastanaga","llum","fum","sostenir","apretar","matar","aterroritzar","terror","pensar","marrà","gessamí","marcar","alba","fugida","presoner","cremar","lentament","lent","respirar","al costat","canell","fregar","aleshores","carn","herba","girar","corona","confiar","fidel","onada","que prové de les onades","oliva","serp","preguntar-se","Pentos","foc","llegir","fals","broma","mentida","tenis a les mans","ungla","ells","ells mateixos","el seu (pl.)","el seu (pl.)","escorça","poma","cor","destruir","destructor","podrit","fossa nassal","nas","desgastat","rascar","saltar","escupir","mil","fetge","balena","afilat","Qarh","afilar","riu","les Terres dels Rius","fluvial","groc","espelma","estrella","capa","castigar","càstig","fuet","barbeta","tortuga","arrossegar","línia","rangs","Qohor","difícil","caos","abandonar","violar","maleir","ofegar-se","fracassar","malfactor","pecat","pels seus pecats","antagonista","antagonismo","enemic","porc","dolent","malament","gruixut","terrible","pagà","pagà","taula","llàgrima","tiet","cosí","escorpí","rentar","netejar","riba","entre","mantenir","formar part","suau","suavitzar","agradar","amic","estimat","amor","caminar","boca","porta","palpar","Rhaegal","trobar","conèixer","aspre","barrejar","bordar","colom","honor","lloar","lloança","adorar","temple","prec","nena","nens","nen","vall","pinyol","rèptil","sorra","figa","caure","gran","enorme","ecel·lent","enormement","avorrit","amagar-se","excavar","deixar caure","flor","R'hllor","recordar","carta","nadó","sentir","escoltar","sa","hola","tercer","ser","núvol","boira","i","matar","i","ara","forjar","conjur","setè","tornar a donar a llum","donar a llum","set","setanta","elevar-se","comprar","mercat","ara","prèviament","setantè","el que","quan","on","pel que","on","el que","com","com estàs","quants","perquè","pergamí","castell","escut","neu","hivern","riure","volar","fer volar","per a qui","compartir","te","gel","intentar","tastar","saviesa","savi","color","ombra","foscor","bé","Syrio","per a","seleccionar","pertànyer","conseller","lluitar per","bo","Taena","pal","filla","noi","Targaryen","acabar","corbat","corbar","corba","sòl","terrestre","terra","punxar","fulla","llibre","donar","professor","Thoros","estol","ploma","ala","blanc","arrel","sec","banc","massa","altre","després","cara oculta","lluny","cada","per tot arreu","tothom","tot","una altra persona","cinc","saüquer","cinquè","cinquanta","cinquantè","saüc","fill","profund","profundament","dia","cuc","jugar","joc","segon","Tyrosh","gatejar","serp","anguila","arribar","paraula","respondre","ordre","llenguatge","calamar","vomitar","vell","allò","falcó","venir","quedar-se","comptar","veure","retallar","vigilar","guardia","veure","demanar disculpes","cap a","cantar","cançó","home","tots els homes han de servir","germà petit","Valyri","Valyria","llengua valyria","Valyri","valyri","valyri","marido","a prop","toro","embrutar","brut","aranya","preferir","favor","Vargo","encara","prim","ira","destí","del sud","cérvol","tieta paterna","cosina","organitzar","tornar a fer","suma","Ponent","dir","conte","proclamació","llei","sud","sol","solar","lluitar","guerra","Viserion","Viserys","purificar","sacerdot","de Volantis","Volantis","corb gran","novè","nou","noranta","norantè","besar","habitació","món","genoll","parlar","segur","olorar","però","jo","estret","coll","art","cremar","indestructible","drac","ahir","hotel","convidat","com vulgui","congelar","obsidiana","ell","negre","llop","incitar","llobató","tenir por de","por","seu","seu"];
 
+var selectedOption="Español";
+var select = document.getElementById("selectorlengua");
+select.addEventListener('change',
+function(){
+  selectedOption = this.options[select.selectedIndex];
+  console.log(selectedOption.value + ': ' + selectedOption.text);
+});
+
 function Translate(){
   //catalan_list, english_list, spanish_list, valyrian_list
   var word=document.getElementById("textarea1").value;
   var wordMay= word.substr(0,1).toUpperCase() + word.substr(1,(word.length-1));
   var wordMin= word.substr(0,1).toLowerCase() + word.substr(1,(word.length-1));
 
+  var lengua = selectedOption.text;
+  
   var entraelse = false;
   var index;
-  if(spanish_list.includes(word))
+  var list;
+
+  if(lengua == "Español") llista = spanish_list;
+  else if(lengua=="English") llista = english_list;
+  else llista = catalan_list;
+
+  if(llista.includes(word))
   {
-      index=spanish_list.indexOf(word);
+      index=llista.indexOf(word);
   }
-  else if(spanish_list.includes(wordMay))
+  else if(llista.includes(wordMay))
   {
-      index=spanish_list.indexOf(wordMay);
+      index=llista.indexOf(wordMay);
   }
-  else if(spanish_list.includes(wordMin))
+  else if(llista.includes(wordMin))
   {
-      index=spanish_list.indexOf(wordMin);
+      index=llista.indexOf(wordMin);
   }
   else{
     entraelse = true;
-    document.getElementById("textarea2").value="La palabra "+word+" no esta en nuestro diccionario";
+    if(lengua=="Español") document.getElementById("textarea2").value="La palabra "+word+" no esta en nuestro diccionario";
+    else if(lengua=="English") document.getElementById("textarea2").value="Sorry but we can not find the word: "+word+" in this dictionay";
+    else document.getElementById("textarea2").value="	No hem trobat cap paraula que coincideixi exactament amb "+word+".";
+    //document.getElementById("textarea2").value="La palabra "+word+" no esta en nuestro diccionario";
   }
   if(!entraelse){
     word=valyrian_list[index];
