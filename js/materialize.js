@@ -24,8 +24,12 @@ var catalan_list=["dona","totes les dones","esposa","ràpid","aviat","rapidesa",
 function Translate(){
   //catalan_list, english_list, spanish_list, valyrian_list
   var word=document.getElementById("textarea1").value;
-  document.getElementById("textarea2").innerHTML = spanish_list.length;
-  //document.getElementById("textarea2").innerHTML=word;
+  if(spanish_list.includes(word)){
+    document.getElementById("textarea2").innerHTML=word;
+  }else{
+    document.getElementById("textarea2").innerHTML="La palabra "+word+" no esta en nuestro diccionario";
+  }
+
 }
 
 /*! cash-dom 1.3.5, https://github.com/kenwheeler/cash @license MIT */
