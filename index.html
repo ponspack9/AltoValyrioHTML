@@ -63,8 +63,7 @@
             <div class="right-align col s12">
             <div class="input-field">
                 <textarea id="textarea2" class="materialize-textarea"></textarea>
-                <label for="textarea2" class="black-text"></label>
-              </div>
+                <label for="textarea2" class="black-text"><b>Traduccion</b></label></div>
             </div>
           </div>
         </form>
@@ -78,11 +77,11 @@
 
         </div>
         <div class = "col  l8 s12 center-align">
-          <a OnClick="Translate()" id="translate-button" class="btn-large waves-effect waves-light black lighten-1">Traducir</a>
+          <a onclick="Translate()" id="translate-button" class="btn-large waves-effect waves-light black lighten-1">Traducir</a>
 
         </div>
           <div class = "col  l2 s12 right-align">
-              <a onclick="ClearTextValyrio" id="clear-valyrio-text-button" class="btn-large waves-effect waves-light grey">Limpiar</a>
+              <a OnClick="GetValyrian()" id="clear-valyrio-text-button" class="btn-large waves-effect waves-light grey">Limpiar</a>
 
             </div>
       </div>
@@ -117,6 +116,7 @@
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="js/materialize.js"></script>
   <script src="js/init.js"></script>
+  <script src="js/dictionary.js"></script>
 
   </body>
 </html>
